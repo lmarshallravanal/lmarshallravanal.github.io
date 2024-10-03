@@ -9,6 +9,7 @@ multi line comment */
 /* CSS files can be used to access e.g. fonts */
 @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@900&display=swap');
 
+/* You can look for more fonts in Google Fonts, then got the corresponding url */
 
 /* Format my paragraph */
 p {
